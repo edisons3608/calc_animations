@@ -5,7 +5,7 @@ AP Calculus AB and BC integration problems often involve rotating some function 
 This project aims to generate basic visualizations for the various integration techniques (performed on a sphere).
 
 
-## What's Inside
+## Outline
 
 ### Disc Integration
 
